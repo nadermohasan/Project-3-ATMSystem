@@ -34,7 +34,7 @@ operations.
 
     /ATM-Project
     │
-    ├── main.cpp
+    ├── ATMSystem.cpp
     ├── Clients.txt
     └── README.md
 
